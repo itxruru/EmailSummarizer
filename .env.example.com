@@ -1,0 +1,3 @@
+GMAIL_ADDRESS=your.email@gmail.com
+GMAIL_APP_PASSWORD=your_16_character_app_password
+GEMINI_API_KEY=your_google_gemini_api_key
