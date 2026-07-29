@@ -3,7 +3,7 @@ name: Daily Email Summarizer
 on:
   schedule:
     # This uses UTC time. 5:00 AM UTC is 8:00 AM in Saudi Arabia (UTC+3)
-    - cron: '0 6 * * *'
+    - cron: '08 6 * * *'
   workflow_dispatch: # Allows you to manually trigger it from GitHub to test
 
 jobs:
