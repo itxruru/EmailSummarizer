@@ -20,7 +20,7 @@ An automated Python script that connects to a Gmail inbox, retrieves unread emai
 ## Local Setup & Testing
 
 **1. Clone the repository**
-> git clone https://github.com/YourUsername/EmailSummarizer.git
+> git clone https://github.com/itxruru/EmailSummarizer.git
 > cd EmailSummarizer
 
 **2. Install dependencies**
